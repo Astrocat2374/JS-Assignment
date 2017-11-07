@@ -1,0 +1,10 @@
+#Table {
+   border: 1px solid black;
+   width:50%;
+   height: 75%;
+   margin: auto;
+}
+
+table, tr, td, th {
+	border: 1px solid black;
+}
