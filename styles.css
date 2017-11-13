@@ -77,8 +77,8 @@ body {
 	height:40%;
 	width: 20%;
 	position: absolute;
-	margin-top: -20%;
-	margin-left: 9%;
+	margin-top: -30%;
+	margin-left: 7%;
 	transform: rotate(320deg);
 }
 
@@ -86,8 +86,8 @@ body {
 	height:40%;
 	width: 20%;
 	position: absolute;
-	margin-top: -20%;
-	margin-left: 70%;
+	margin-top: -30%;
+	margin-left: 72%;
 	transform: rotate(35deg);
 }
 
@@ -100,9 +100,24 @@ body {
 }
 
 #words{
-	margin-left: 39%;
+	margin-left: 37%;
 	position: absolute;
 	margin-top: -13%;
 	color: darkgreen;
 	font-size: 155%;
+}
+#Cel{
+	margin-top: 2%;
+}
+
+#cel{
+	margin-left: 1.7%;
+}
+	
+#Int{
+	margin-top: 2%;
+}
+
+#int{
+	margin-left: 1%;
 }
