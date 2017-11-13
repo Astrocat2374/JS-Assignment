@@ -5,7 +5,7 @@ function temperature(F) {
 //console.log(temperature(32))
 
 for (i = 20; i <= 120; i += 5) {
-  console.log("Fahreinheight :" + i + " " + "Celcius :" + temperature(i));
+  console.log(temperature(i));
   var table = document.getElementById("Table");
   var row = table.insertRow(-1);
   var cell1 = row.insertCell(0);
